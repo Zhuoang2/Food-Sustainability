@@ -1,7 +1,13 @@
-# Secrets
-API_Key
+# Secrets / 本地配置（含密钥）
+config.py
+
+# Python
+__pycache__/
+*.pyc
 
 # data
 data/
+
+Food.txt
 
 .DS_Store
